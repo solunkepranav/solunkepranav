@@ -1,4 +1,4 @@
-# Hi there, I'm Pranav Solumbe! 👋
+# Hi there, I'm Pranav Solunke! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-solunke-159165330)
 I'm a **Second Year Computer Engineering Student** at **Sadar Patel Institute of Technology (S.P.I.T.)**, Mumbai. I am passionate about solving algorithmic problems and building efficient, scalable web applications.
 
@@ -21,23 +21,5 @@ I'm a **Second Year Computer Engineering Student** at **Sadar Patel Institute of
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solunkepranav&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solunkepranav&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages" />
-</div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solunkepranav&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
-<br />
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=solunkepranav&theme=tokyonight" alt="snake" />
-</div>
