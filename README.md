@@ -1,5 +1,6 @@
 # Hi there, I'm Pranav Solunke! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-solunke-159165330)
+
 I'm a **Second Year Computer Engineering Student** at **Sadar Patel Institute of Technology (S.P.I.T.)**, Mumbai. I am passionate about solving algorithmic problems and building efficient, scalable web applications.
 
 - 🔭 I’m currently working on an **Institutional Faculty Feedback System**.
