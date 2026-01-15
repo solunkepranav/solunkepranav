@@ -19,15 +19,30 @@ I'm a **Second Year Computer Engineering Student** at **Sadar Patel Institute of
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Tools & IDEs** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solunkepranav&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=solunkepranav&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solunkepranav&theme=tokyonight&hide_border=true" height="160" alt="streak" />
+
+</div>
+
 ### 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solunkepranav/solunkepranav/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/solunkepranav/solunkepranav/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/solunkepranav/solunkepranav/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
+</div>
+
+
 ---
 
 
