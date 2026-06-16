@@ -4,7 +4,7 @@
 I'm a **Computer Engineering Student** at **Sardar Patel Institute of Technology (S.P.I.T.)**, Mumbai, currently pursuing a minor in **FinTech through Barclays**. I'm passionate about building scalable backends, working with graph architectures, and exploring first-principles machine learning models.
 
 - 🔭 I’m currently working on **GraphMind** (giving AI a structured, graph-based memory layer to move past traditional RAG) and scaling my recent builds.
-- 🚀 Recently shipped **RailPulse** (an autonomous agentic railway safety system using YOLOv8 & Gemini) and **Aegis Intercept** (a pre-transaction UPI cognitive firewall).
+- 🚀 Recently shipped **RailPulse** (an autonomous agentic railway safety system using YOLOv8   ) and **Aegis Intercept** (a pre-transaction UPI cognitive firewall).
 - 🌱 I’m currently diving deep into **Local LLM orchestration (Ollama)**, **Vector Databases**, and core **Operating Systems & Networking**.
 - 💻 I love solving complex engineering problems in **C++** and **Java**, and vibe-coding frontend workflows.
 - 🎯 My ultimate goal is to nurture and build a self-evolving AI system—one that isn't just force-fed static data, but builds a strong foundational backbone to explore, question, and discover things on its own like a child.
