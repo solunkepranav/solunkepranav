@@ -1,7 +1,7 @@
 # Hi there, I'm Pranav Solunke! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-solunke-159165330)
 
-I'm a **Computer Engineering Student** at **Sardar Patel Institute of Technology (S.P.I.T.)**, Mumbai, currently pursuing a minor in **FinTech through Barclays**. I'm passionate about building scalable backends, working with graph architectures, and exploring first-principles machine learning models.
+I'm a **Computer Engineering Student** at **Sardar Patel Institute of Technology (S.P.I.T.)**, Mumbai, currently pursuing a minor in **Banking and Tech through Barclays**. I'm passionate about building scalable backends, working with graph architectures, and exploring first-principles machine learning models.
 
 - 🔭 I’m currently working on **GraphMind** (giving AI a structured, graph-based memory layer to move past traditional RAG) and scaling my recent builds.
 - 🚀 Recently shipped **RailPulse** (an autonomous agentic railway safety system using YOLOv8   ) and **Aegis Intercept** (a pre-transaction UPI cognitive firewall).
